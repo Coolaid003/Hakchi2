@@ -135,15 +135,15 @@
     <value>깃 커밋</value>
   </data>
   <data name="okButton.Text" xml:space="preserve">
-    <value>&amp;확인</value>
+    <value>확인(&amp;O)</value>
   </data>
   <data name="licenseInfo.Text" xml:space="preserve">
-    <value>&amp;라이센스 정보</value>
+    <value>라이센스 정보(&amp;L)</value>
   </data>
   <data name="labelGitTag.Text" xml:space="preserve">
     <value>깃 태그/value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>AboutBox</value>
+    <value>박스정보</value>
   </data>
 </root>
