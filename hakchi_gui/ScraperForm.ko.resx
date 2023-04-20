@@ -1545,7 +1545,7 @@
     <value>30, 216</value>
   </data>
   <data name="pictureBoxM2Spine.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>확대/축소</value>
+    <value>Left</value>
   </data>
   <data name="pictureBoxM2Spine.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1578,7 +1578,7 @@
     <value>152, 216</value>
   </data>
   <data name="pictureBoxM2Front.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>확대/축소</value>
+    <value>Zoom</value>
   </data>
   <data name="pictureBoxM2Front.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
