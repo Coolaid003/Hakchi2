@@ -118,7 +118,7 @@
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="moveUpButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="moveUpButton.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>늘리기</value>
@@ -150,7 +150,7 @@
     <value>2</value>
   </data>
   <data name="moveDownButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="moveDownButton.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>늘리기</value>
@@ -180,7 +180,7 @@
     <value>1</value>
   </data>
   <data name="deleteButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="deleteButton.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>늘리기</value>
@@ -216,7 +216,7 @@
     <value>GrowAndShrink</value>
   </data>
   <data name="addRepoButton.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="addRepoButton.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -369,7 +369,7 @@
     <value>3</value>
   </data>
   <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 16</value>
@@ -429,7 +429,7 @@
     <value>2</value>
   </data>
   <data name="editButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="editButton.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>늘리기</value>
