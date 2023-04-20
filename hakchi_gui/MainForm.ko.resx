@@ -2076,7 +2076,7 @@
     <value>16</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>왼쪽</value>
+    <value>Left</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 221</value>
