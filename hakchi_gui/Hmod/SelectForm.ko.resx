@@ -177,7 +177,7 @@
     <value>189, 22</value>
   </data>
   <data name="groupByToolStripMenuItem.Text" xml:space="preserve">
-    <value>그룹 기준/value>
+    <value>그룹 기준</value>
   </data>
   <data name="deleteModFromDiskToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>189, 22</value>
