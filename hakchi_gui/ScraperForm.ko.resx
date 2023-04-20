@@ -270,7 +270,7 @@
     <value>2</value>
   </data>
   <data name="comboBoxScrapers.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="comboBoxScrapers.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 6</value>
@@ -699,7 +699,7 @@
     <value>0</value>
   </data>
   <data name="maxPlayersComboBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="maxPlayersComboBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 251</value>
@@ -753,7 +753,7 @@
     <value>2</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 133</value>
@@ -1050,7 +1050,7 @@
     <value>11</value>
   </data>
   <data name="textBoxName.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="textBoxName.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 16</value>
@@ -1077,7 +1077,7 @@
     <value>12</value>
   </data>
   <data name="textBoxPublisher.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="textBoxPublisher.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 55</value>
@@ -1104,7 +1104,7 @@
     <value>13</value>
   </data>
   <data name="textBoxDeveloper.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="textBoxDeveloper.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 94</value>
@@ -1134,7 +1134,7 @@
     <value>14</value>
   </data>
   <data name="textBoxCopyright.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="textBoxCopyright.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 172</value>
@@ -1164,7 +1164,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxName.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxName.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 16</value>
@@ -1194,7 +1194,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxPublisher.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxPublisher.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 55</value>
@@ -1224,7 +1224,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxDeveloper.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxDeveloper.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 94</value>
@@ -1257,7 +1257,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxReleaseDate.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxReleaseDate.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 133</value>
@@ -1287,7 +1287,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxCopyright.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxCopyright.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 172</value>
@@ -1317,7 +1317,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxGenre.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxGenre.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 211</value>
@@ -1347,7 +1347,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxPlayerCount.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxPlayerCount.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 251</value>
@@ -1377,7 +1377,7 @@
     <value>True</value>
   </data>
   <data name="checkBoxDescription.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="checkBoxDescription.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 291</value>
@@ -1467,7 +1467,7 @@
     <value>1</value>
   </data>
   <data name="panelArt.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="&gt;&gt;pictureBoxM2Spine.Name" xml:space="preserve">
     <value>pictureBoxM2Spine</value>
@@ -1818,7 +1818,7 @@
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="textBoxSearchTerm" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="buttonSearch" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100,AutoSize,0" /&gt;&lt;Rows Styles="AutoSize,0" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="textBoxSearchTerm.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>상단</value>
+    <value>Top</value>
   </data>
   <data name="textBoxSearchTerm.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 1</value>
