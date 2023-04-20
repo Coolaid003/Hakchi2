@@ -240,7 +240,7 @@
     <value>True</value>
   </data>
   <data name="buttonOk.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>오른쪽</value>
+    <value>Right</value>
   </data>
   <data name="buttonOk.Location" type="System.Drawing.Point, System.Drawing">
     <value>966, 465</value>
