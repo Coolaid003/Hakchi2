@@ -1193,7 +1193,7 @@
     <value>2</value>
   </data>
   <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>오른쪽</value>
+    <value>Right</value>
   </data>
   <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>197, 405</value>
