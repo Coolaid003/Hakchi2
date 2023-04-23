@@ -410,13 +410,13 @@
     <value>182, 22</value>
   </data>
   <data name="positionAtTheTopToolStripMenuItem.Text" xml:space="preserve">
-    <value>Top</value>
+    <value>상단</value>
   </data>
   <data name="positionAtTheBottomToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>182, 22</value>
   </data>
   <data name="positionAtTheBottomToolStripMenuItem.Text" xml:space="preserve">
-    <value>하단m</value>
+    <value>하단</value>
   </data>
   <data name="positionSortedToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>182, 22</value>
