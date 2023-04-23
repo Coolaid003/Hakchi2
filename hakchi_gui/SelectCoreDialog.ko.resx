@@ -432,7 +432,7 @@
     <value>3</value>
   </data>
   <data name="showAllSystemsCheckBox.Text" xml:space="preserve">
-    <value>Show All</value>
+    <value>모두 표시</value>
   </data>
   <data name="&gt;&gt;showAllSystemsCheckBox.Name" xml:space="preserve">
     <value>showAllSystemsCheckBox</value>
