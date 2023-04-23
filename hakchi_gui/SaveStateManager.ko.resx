@@ -327,7 +327,7 @@
     <value>Top, Bottom, Left, Right</value>
   </data>
   <data name="colName.Text" xml:space="preserve">
-    <value>Name</value>
+    <value>이름</value>
   </data>
   <data name="colName.Width" type="System.Int32, mscorlib">
     <value>400</value>
