@@ -583,7 +583,7 @@
     <value>325, 22</value>
   </data>
   <data name="disableHakchi2PopupsToolStripMenuItem.Text" xml:space="preserve">
-    <value>hakchi2 팝업 비활성화</value>
+    <value>Hakchi2 팝업 비활성화</value>
   </data>
   <data name="enableInformationScrapeOnImportToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>325, 22</value>
@@ -790,7 +790,7 @@
     <value>204, 22</value>
   </data>
   <data name="openTelnetToolStripMenuItem.Text" xml:space="preserve">
-    <value>Open Telnet client</value>
+    <value>텔넷 클라이언트 열기</value>
   </data>
   <data name="toolStripMenuItem8.Size" type="System.Drawing.Size, System.Drawing">
     <value>201, 6</value>
@@ -799,7 +799,7 @@
     <value>179, 22</value>
   </data>
   <data name="changeBootImageToolStripMenuItem.Text" xml:space="preserve">
-    <value>Change boot splash</value>
+    <value>부팅 스플래시 변경</value>
   </data>
   <data name="disableBootImageToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>179, 22</value>
@@ -1029,7 +1029,7 @@
     <value>284, 22</value>
   </data>
   <data name="removePrefixToolStripMenuItem.Text" xml:space="preserve">
-    <value>Remove prefix</value>
+    <value>접두어 제거</value>
   </data>
   <data name="toolStripMenuItem14.Size" type="System.Drawing.Size, System.Drawing">
     <value>281, 6</value>
@@ -1359,7 +1359,7 @@
     <value>26</value>
   </data>
   <data name="buttonExport.Text" xml:space="preserve">
-    <value>Export to USB</value>
+    <value>USB로 내보내기</value>
   </data>
   <data name="&gt;&gt;buttonExport.Name" xml:space="preserve">
     <value>buttonExport</value>
@@ -1560,7 +1560,7 @@
     <value>0</value>
   </data>
   <data name="labelCommandLine.Text" xml:space="preserve">
-    <value>Command Line</value>
+    <value>명령줄</value>
   </data>
   <data name="labelCommandLine.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -2127,7 +2127,7 @@
     <value>16</value>
   </data>
   <data name="labelSortName.Text" xml:space="preserve">
-    <value>Sort Name</value>
+    <value>정렬 이름</value>
   </data>
   <data name="labelSortName.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -2883,13 +2883,13 @@
     <value>129, 22</value>
   </data>
   <data name="leftmostToolStripMenuItem.Text" xml:space="preserve">
-    <value>Leftmost</value>
+    <value>맨 왼쪽</value>
   </data>
   <data name="rightmostToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>129, 22</value>
   </data>
   <data name="rightmostToolStripMenuItem.Text" xml:space="preserve">
-    <value>Rightmost</value>
+    <value>맨 오른쪽</value>
   </data>
   <data name="backFolderButtonPositionToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>356, 22</value>
@@ -3510,7 +3510,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>hakchi2</value>
+    <value>Hakchi2</value>
   </data>
   <data name="&gt;&gt;fileToolStripMenuItem.Name" xml:space="preserve">
     <value>fileToolStripMenuItem</value>
