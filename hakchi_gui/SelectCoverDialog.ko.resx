@@ -357,7 +357,7 @@
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="filenameColumnHeader.Text" xml:space="preserve">
-    <value>Filename</value>
+    <value>파일이름</value>
   </data>
   <data name="buttonSetDefault.Location" type="System.Drawing.Point, System.Drawing">
     <value>69, 452</value>
