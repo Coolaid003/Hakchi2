@@ -67,7 +67,7 @@ jobs:
           New-Item -ItemType File -Path "${{ github.workspace }}\hakchi_gui\ApiKeys\TheGamesDB.txt" -Force
           Set-Content -Path "${{ github.workspace }}\hakchi_gui\ApiKeys\TheGamesDB.txt" -Value $env:GamesDBApiKey
         env:
-          GamesDBApiKey: ${{ secrets.GamesDBApiKey }}
+          GamesDBApiKey: ${{ secrets.GAMESDB_API_KEY }}
         
       - name: Build solution
         run: |
