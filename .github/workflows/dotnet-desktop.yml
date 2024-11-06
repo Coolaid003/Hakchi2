@@ -10,6 +10,9 @@ on:
     branches:
       - '*'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: windows-latest
@@ -95,10 +98,11 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.ref_name }}
           name: Hakchi2 CE v${{ env.displayVersion }}
+          tag_name: ${{ github.ref_name }}
           draft: true
           prerelease: false
+          generate_release_notes: true
           files: |
             hakchi_gui/bin/hakchi2-ce-${{ env.displayVersion }}-installer.exe
             hakchi_gui/bin/hakchi2-ce-${{ env.displayVersion }}-portable.zip
